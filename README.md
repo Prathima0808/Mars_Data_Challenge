@@ -1,13 +1,13 @@
 # Mars_Data_Challenge
 
-Background
-in this  full web-scraping and data analysis project for the mission to Mars. I learned to identify HTML elements on a page, identify their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup, and also scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
+
+In this  full web-scraping and data analysis project for the mission to Mars. I learned to identify HTML elements on a page, identify their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup, and also scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
 
  collecting data, organising and storing data, analysing data, and then visually communicating your insights.
 
 and created two technical products. You will submit the following deliverables:
 
-# Deliverable 1: Scrape titles and preview text from Mars news articles. Optionally export the data into a JSON file or a MongoDB database.
+# Deliverable 1: Scrape titles and preview text from Mars news articles.
 
 1. Create a new Jupyter notebook named mars_data_challenge_part_1.ipynb.
 
